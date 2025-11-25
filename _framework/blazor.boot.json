@@ -1,10 +1,10 @@
 {
   "mainAssemblyName": "FwManager.Client",
   "resources": {
-    "hash": "sha256-PhRuA88TQpObQb2tfXNv9vOC0Jq0ovjbdE7Deg1uF3w=",
+    "hash": "sha256-RCGvUVYs//Xhs4QgdzFgPTcsWBl79dhTbgbuHF6tB6A=",
     "fingerprinting": {
       "AntDesign.j3f4sqlozd.wasm": "AntDesign.wasm",
-      "FwManager.Client.e6zibnxs8g.wasm": "FwManager.Client.wasm",
+      "FwManager.Client.tgejkm9as8.wasm": "FwManager.Client.wasm",
       "FwManager.Contracts.desie2z5yr.wasm": "FwManager.Contracts.wasm",
       "Microsoft.AspNetCore.Components.Forms.4mkmdm0o78.wasm": "Microsoft.AspNetCore.Components.Forms.wasm",
       "Microsoft.AspNetCore.Components.42is4btnfh.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -103,7 +103,7 @@
     },
     "assembly": {
       "AntDesign.j3f4sqlozd.wasm": "sha256-b7ke+tS9kUITv6WXTn9ieQlllk8Nit27sjh6/Q18JCw=",
-      "FwManager.Client.e6zibnxs8g.wasm": "sha256-asYb0IXGNs6iqrqCzaQH6oebJiBooohEhxvEzwuGhp4=",
+      "FwManager.Client.tgejkm9as8.wasm": "sha256-/Yu6qDVvlsJ0lrfNAjdwF/FvoAy33iDwXkMq1kXI+Lg=",
       "FwManager.Contracts.desie2z5yr.wasm": "sha256-RebNhaywguZmDh73QIKbz4BAbzONLmz/vgl1D4s4kFU=",
       "Microsoft.AspNetCore.Components.Forms.4mkmdm0o78.wasm": "sha256-3FYE79mqvHlkNHmcQR4+9D8DDv/PXuWfE4rzgPz/aY0=",
       "Microsoft.AspNetCore.Components.42is4btnfh.wasm": "sha256-lJXgMWG2biuT31FuiP65WmBoZtcVehLRTkPhO/C8agI=",
