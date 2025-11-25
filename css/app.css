@@ -149,4 +149,29 @@ code {
     gap: 24px;
 }
 
+.ant-select-single .ant-select-selector .ant-select-selection-item,
+.ant-select-single .ant-select-selector .ant-select-selection-placeholder {
+    white-space: normal !important;
+    word-break: break-word !important;
+    height: auto !important;
+    line-height: normal !important;
+    display: block !important;
+    padding-top: 4px !important;
+    padding-bottom: 4px !important;
+}
+
+/* Allow selector box itself to grow */
+.ant-select-single .ant-select-selector {
+    height: auto !important;
+    padding-top: 4px !important;
+    padding-bottom: 4px !important;
+    align-items: flex-start !important;
+}
+
+/* Make dropdown options wrap lines instead of ellipsis */
+.ant-select-dropdown .ant-select-item-option-content {
+    white-space: normal !important;
+    word-break: break-word !important;
+}
+
 
