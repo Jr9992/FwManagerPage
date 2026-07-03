@@ -1833,7 +1833,7 @@
       "url": "_framework\/netstandard.pe7u7xk5fk.wasm.br"
     },
     {
-      "hash": "sha256-mDFU4c4iOXahu8osO42849Z\/gIQQYK4sA1YzmJ\/dT5Q=",
+      "hash": "sha256-\/tslCrhJNfFcqeNmSCMg2V4pWX6x4quyRQTMPyi6icU=",
       "url": "appsettings.json"
     },
     {
@@ -2045,5 +2045,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "Wvm7VZD5"
+  "version": "vXl2TQ3C"
 };
